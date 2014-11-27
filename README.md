@@ -1,4 +1,3 @@
-bubbler
-=======
+# Bubbler
 
-Python events
+Simple event framework.
