@@ -1,5 +1,5 @@
 include *.md
 include .gitignore
-graft furhire_api
+graft bubbler
 graft tests
 global-exclude *.pyc
